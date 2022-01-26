@@ -1,0 +1,16 @@
+footer{
+    position:absolute;
+    bottom:0;
+    display:block;
+    padding: 20px;
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    height: 15px;
+    width: 100%;
+    
+  }
+  /* body{
+    background : rgb(48, 255, 117);
+    height: 100%;
+  } */
